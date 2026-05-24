@@ -7,7 +7,7 @@ I enjoy solving complex business and data-related problems, improving system eff
 
 Skills: C#, ASP.NET MVC, MS SQL Server, JS, Python, Django, React, Crystal Report, StimulSoft
 
-- 🔭 I’m currently working on MIS for a shipping line 
+- 🔭 I’m currently working on https://ihishab.com/
 - 🌱 I’m currently learning Claude AI 
 
 
