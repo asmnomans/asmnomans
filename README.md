@@ -11,11 +11,11 @@ Skills: C#, ASP.NET MVC, MS SQL Server, JS, Python, Django, React, Crystal Repor
 - 🌱 I’m currently learning Claude AI 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asmnomans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abu-syed-mohammad-noman-52876916a/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/fasmnoman)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmnomans)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asmnomans&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asmnomans&show_icons=true&count_private=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/asmnomans)  
 
