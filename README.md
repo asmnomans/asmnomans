@@ -19,3 +19,9 @@ Skills: C#, ASP.NET MVC, MS SQL Server, JS, Python, Django, React, Crystal Repor
 
 ![GitHub metrics](https://metrics.lecoq.io/asmnomans)  
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abu-syed-mohammad-noman-52876916a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-syed-mohammad-noman-52876916a" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/asmnomans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asmnomans" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/asmnomans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asmnomans" height="30" width="40" /></a>
+</p>
