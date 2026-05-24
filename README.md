@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Abu Syed Mohammad Noman
+### Hi, my name is Abu Syed Mohammad Noman
 I am currently working as a Senior Data Analyst at Skiff Technologies for Dominion DMS USA. I have more than 15 years of experience in software development, database management, data migration, ETL pipeline development, and enterprise solutions.
 
 I have worked on several large-scale ERP and MIS systems for industries including manufacturing, supply chain, finance, and government organizations. My experience includes both technical development and team leadership responsibilities such as project planning, stakeholder communication, code review, and solution architecture.
